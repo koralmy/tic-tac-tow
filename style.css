@@ -6,7 +6,7 @@ body {
 	align-items: center;
 	height: 100vh;
 	flex-direction: column;
-	background-image:  url(/neon-background2.jpg);
+	background-image:  url(img/neon-background2.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
