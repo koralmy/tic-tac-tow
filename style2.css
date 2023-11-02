@@ -313,7 +313,7 @@ button:hover {
 } */
 
 
-.landing-pic {
+.landing-pic, .landing-pic a {
   width: 100%;
   height: 80%;
   display: flex;
